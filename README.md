@@ -1,6 +1,6 @@
 ### Hi there 👋
 i am Mohammad hosein Tahani (MHT)
-i am an
+
 <!--
 **miganmht/miganmht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
